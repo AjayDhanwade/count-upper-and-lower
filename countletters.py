@@ -13,5 +13,4 @@ def count_letters(lis):
     
 
 string="The quick Brow Fox"
-list1=(string)
-count_letters(list1)
+count_letters(string)
